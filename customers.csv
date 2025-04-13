@@ -1,0 +1,101 @@
+CustomerID,Name,Age,City,State,ZipCode,Email
+1,John Smith,30,New York,NY,10001,john.smith@example.com
+2,Jane Doe,25,Los Angeles,CA,90001,jane.doe@example.com
+3,David Lee,45,Chicago,IL,60601,david.lee@example.com
+4,Sarah Jones,35,Houston,TX,77001,sarah.jones@example.com
+5,Michael Brown,28,Phoenix,AZ,85001,michael.brown@example.com
+6,Emily Davis,40,Philadelphia,PA,19101,emily.davis@example.com
+7,Kevin Wilson,32,San Antonio,TX,78201,kevin.wilson@example.com
+8,Jessica Garcia,29,San Diego,CA,92101,jessica.garcia@example.com
+9,Brian Rodriguez,50,Dallas,TX,75201,brian.rodriguez@example.com
+10,Ashley Williams,27,San Jose,CA,95101,ashley.williams@example.com
+11,Christopher Martinez,38,Austin,TX,78701,christopher.martinez@example.com
+12,Amanda Anderson,31,Jacksonville,FL,32201,amanda.anderson@example.com
+13,Matthew Thomas,42,San Francisco,CA,94101,matthew.thomas@example.com
+14,Stephanie Jackson,26,Columbus,OH,43201,stephanie.jackson@example.com
+15,Nicholas White,33,Charlotte,NC,28201,nicholas.white@example.com
+16,Melissa Harris,48,Indianapolis,IN,46201,melissa.harris@example.com
+17,Patrick Martin,24,Seattle,WA,98101,patrick.martin@example.com
+18,Elizabeth Thompson,39,Denver,CO,80201,elizabeth.thompson@example.com
+19,Ryan Garcia,36,Nashville,TN,37201,ryan.garcia@example.com
+20,Lauren Perez,23,Oklahoma City,OK,73101,lauren.perez@example.com
+21,Jose Wilson,47,Las Vegas,NV,89101,jose.wilson@example.com
+22,Victoria Moore,34,Baltimore,MD,21201,victoria.moore@example.com
+23,Adam Taylor,28,Louisville,KY,40201,adam.taylor@example.com
+24,Rachel Anderson,41,Portland,OR,97201,rachel.anderson@example.com
+25,Brandon Thomas,29,Milwaukee,WI,53201,brandon.thomas@example.com
+26,Angela Jackson,51,Albuquerque,NM,87101,angela.jackson@example.com
+27,Justin White,27,Tucson,AZ,85701,justin.white@example.com
+28,Heather Harris,37,Fresno,CA,93701,heather.harris@example.com
+29,Aaron Martin,30,Sacramento,CA,95814,aaron.martin@example.com
+30,Nicole Thompson,44,Long Beach,CA,90801,nicole.thompson@example.com
+31,Samuel Garcia,25,Kansas City,MO,64101,samuel.garcia@example.com
+32,Christina Perez,32,Mesa,AZ,85201,christina.perez@example.com
+33,Daniel Wilson,49,Atlanta,GA,30301,daniel.wilson@example.com
+34,Laura Moore,26,Virginia Beach,VA,23451,laura.moore@example.com
+35,James Taylor,35,Omaha,NE,68101,james.taylor@example.com
+36,Rebecca Anderson,43,Miami,FL,33101,rebecca.anderson@example.com
+37,Joseph Thomas,28,Oakland,CA,94601,joseph.thomas@example.com
+38,Michelle Jackson,52,Tulsa,OK,74101,michelle.jackson@example.com
+39,Charles White,31,Minneapolis,MN,55401,charles.white@example.com
+40,Karen Harris,29,Colorado Springs,CO,80901,karen.harris@example.com
+41,George Martin,46,Raleigh,NC,27601,george.martin@example.com
+42,Susan Thompson,24,Arlington,TX,76010,susan.thompson@example.com
+43,Robert Garcia,33,Wichita,KS,67201,robert.garcia@example.com
+44,Dorothy Perez,40,Tampa,FL,33601,dorothy.perez@example.com
+45,Edward Wilson,27,Bakersfield,CA,93301,edward.wilson@example.com
+46,Nancy Moore,38,Aurora,CO,80010,nancy.moore@example.com
+47,William Taylor,50,Anaheim,CA,92801,william.taylor@example.com
+48,Margaret Anderson,25,Santa Ana,CA,92701,margaret.anderson@example.com
+49,Thomas Thomas,36,Riverside,CA,92501,thomas.thomas@example.com
+50,Linda Jackson,42,Corpus Christi,TX,78401,linda.jackson@example.com
+51,Richard White,30,Lexington,KY,40501,richard.white@example.com
+52,Barbara Harris,28,Stockton,CA,95201,barbara.harris@example.com
+53,Joseph Martin,48,Saint Paul,MN,55101,joseph.martin2@example.com
+54,Charles Thompson,34,Cincinnati,OH,45201,charles.thompson2@example.com
+55,Patricia Garcia,26,Greensboro,NC,27401,patricia.garcia@example.com
+56,Ronald Perez,51,Pittsburgh,PA,15201,ronald.perez@example.com
+57,Mary Wilson,23,Lincoln,NE,68501,mary.wilson@example.com
+58,Kenneth Moore,39,Orlando,FL,32801,kenneth.moore@example.com
+59,Donald Taylor,29,Jersey City,NJ,07301,donald.taylor@example.com
+60,Helen Anderson,43,Buffalo,NY,14201,helen.anderson@example.com
+61,Steven Thomas,32,Fort Wayne,IN,46801,steven.thomas@example.com
+62,Sandra Jackson,27,Chandler,AZ,85224,sandra.jackson@example.com
+63,Paul White,47,Laredo,TX,78040,paul.white@example.com
+64,Deborah Harris,35,Madison,WI,53701,deborah.harris@example.com
+65,Larry Martin,25,Durham,NC,27701,larry.martin@example.com
+66,Laura Thompson,52,Lubbock,TX,79401,laura.thompson2@example.com
+67,Mark Garcia,31,Gilbert,AZ,85296,mark.garcia@example.com
+68,Carol Perez,40,Glendale,AZ,85301,carol.perez@example.com
+69,Jerry Wilson,28,Reno,NV,89501,jerry.wilson@example.com
+70,Pamela Moore,44,Scottsdale,AZ,85251,pamela.moore@example.com
+71,Timothy Taylor,24,Chesapeake,VA,23320,timothy.taylor@example.com
+72,Alice Anderson,36,Norfolk,VA,23510,alice.anderson@example.com
+73,Howard Thomas,33,Irving,TX,75060,howard.thomas@example.com
+74,Janice Jackson,48,Fremont,CA,94538,janice.jackson@example.com
+75,Peter White,29,Richmond,VA,23219,peter.white@example.com
+76,Judy Harris,27,Boise,ID,83701,judy.harris@example.com
+77,Ralph Martin,50,Spokane,WA,99201,ralph.martin@example.com
+78,Kathleen Thompson,26,Birmingham,AL,35201,kathleen.thompson@example.com
+79,Albert Garcia,41,Rochester,NY,14604,albert.garcia@example.com
+80,Gloria Perez,37,Des Moines,IA,50309,gloria.perez@example.com
+81,Harold Wilson,23,Modesto,CA,95354,harold.wilson@example.com
+82,Evelyn Moore,43,Huntsville,AL,35801,evelyn.moore@example.com
+83,Jesse Taylor,30,Salt Lake City,UT,84101,jesse.taylor@example.com
+84,Joan Anderson,25,Knoxville,TN,37901,joan.anderson@example.com
+85,Carl Thomas,49,Grand Rapids,MI,49503,carl.thomas@example.com
+86,Cheryl Jackson,38,Little Rock,AR,72201,cheryl.jackson@example.com
+87,Roger White,34,Shreveport,LA,71101,roger.white@example.com
+88,Martha Harris,28,Augusta,GA,30901,martha.harris@example.com
+89,Billy Martin,52,Mobile,AL,36601,billy.martin@example.com
+90,Judith Thompson,27,Montgomery,AL,36101,judith.thompson@example.com
+91,Lawrence Garcia,39,Akron,OH,44301,lawrence.garcia@example.com
+92,Beverly Perez,33,Tacoma,WA,98402,beverly.perez@example.com
+93,Randy Wilson,46,Fontana,CA,92335,randy.wilson@example.com
+94,Kathryn Moore,24,Santa Clarita,CA,91350,kathryn.moore@example.com
+95,Dennis Taylor,31,Cape Coral,FL,33909,dennis.taylor@example.com
+96,Willie Anderson,42,Pembroke Pines,FL,33024,willie.anderson@example.com
+97,Janice Thomas,29,Salem,OR,97301,janice.thomas2@example.com
+98,Bradley Jackson,26,Port St. Lucie,FL,34952,bradley.jackson@example.com
+99,Tiffany White,51,Vancouver,WA,98660,tiffany.white@example.com
+100,Raymond Harris,35,Clarksville,TN,37040,raymond.harris@example.com
