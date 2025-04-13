@@ -1,0 +1,243 @@
+CustomerID,Product,Date
+1,Pixel 7 Pro,2022-10-13
+2,Pixel 6a,2023-03-22
+3,Pixel Fold,2023-06-28
+4,Pixel Tablet,2023-09-15
+5,Pixel Watch,2022-11-03
+6,Pixel Buds Pro,2023-01-08
+7,Pixel 7,2023-04-29
+8,Pixel 8,2023-10-09
+9,Pixel 8 Pro,2023-10-09
+10,Pixel Stand (2nd gen),2023-11-17
+11,Pixel 7 Pro,2023-01-20
+12,Pixel 6a,2023-05-12
+13,Pixel Fold,2023-08-01
+14,Pixel Tablet,2023-10-25
+15,Pixel Watch,2023-01-05
+16,Pixel Buds Pro,2023-06-19
+17,Pixel 7,2023-09-02
+18,Pixel 8,2023-11-22
+19,Pixel 8 Pro,2024-01-05
+20,Pixel Stand (2nd gen),2024-02-18
+21,Pixel 7 Pro,2022-11-28
+22,Pixel 6a,2023-02-15
+23,Pixel Fold,2023-07-08
+24,Pixel Tablet,2023-11-09
+25,Pixel Watch,2023-02-28
+26,Pixel Buds Pro,2023-08-12
+27,Pixel 7,2023-10-26
+28,Pixel 8,2024-01-15
+29,Pixel 8 Pro,2024-03-01
+30,Pixel Stand (2nd gen),2024-03-20
+31,Pixel 7 Pro,2023-02-03
+32,Pixel 6a,2023-06-22
+33,Pixel Fold,2023-09-29
+34,Pixel Tablet,2023-12-14
+35,Pixel Watch,2023-04-18
+36,Pixel Buds Pro,2023-10-02
+37,Pixel 7,2024-01-22
+38,Pixel 8,2024-03-10
+39,Pixel 8 Pro,2022-10-20
+40,Pixel Stand (2nd gen),2022-12-05
+41,Pixel 7 Pro,2023-03-15
+42,Pixel 6a,2023-07-28
+43,Pixel Fold,2023-10-18
+44,Pixel Tablet,2024-01-28
+45,Pixel Watch,2023-05-09
+46,Pixel Buds Pro,2023-11-05
+47,Pixel 7,2024-02-12
+48,Pixel 8,2022-11-12
+49,Pixel 8 Pro,2023-02-22
+50,Pixel Stand (2nd gen),2023-04-05
+51,Pixel 7 Pro,2023-04-22
+52,Pixel 6a,2023-08-15
+53,Pixel Fold,2023-11-20
+54,Pixel Tablet,2024-02-25
+55,Pixel Watch,2023-06-03
+56,Pixel Buds Pro,2023-12-09
+57,Pixel 7,2024-03-18
+58,Pixel 8,2023-01-02
+59,Pixel 8 Pro,2023-05-20
+60,Pixel Stand (2nd gen),2023-07-15
+61,Pixel 7 Pro,2023-05-18
+62,Pixel 6a,2023-09-08
+63,Pixel Fold,2023-12-28
+64,Pixel Tablet,2024-03-05
+65,Pixel Watch,2023-07-10
+66,Pixel Buds Pro,2024-01-08
+67,Pixel 7,2023-02-10
+68,Pixel 8,2023-06-25
+69,Pixel 8 Pro,2023-09-25
+70,Pixel Stand (2nd gen),2023-12-25
+71,Pixel 7 Pro,2023-06-12
+72,Pixel 6a,2023-10-15
+73,Pixel Fold,2024-01-18
+74,Pixel Tablet,2024-03-28
+75,Pixel Watch,2023-08-02
+76,Pixel Buds Pro,2024-02-05
+77,Pixel 7,2023-03-25
+78,Pixel 8,2023-07-20
+79,Pixel 8 Pro,2023-10-20
+80,Pixel Stand (2nd gen),2024-01-10
+81,Pixel 7 Pro,2023-07-05
+82,Pixel 6a,2023-11-08
+83,Pixel Fold,2024-02-12
+84,Pixel Tablet,2024-04-02
+85,Pixel Watch,2023-09-18
+86,Pixel Buds Pro,2024-03-15
+87,Pixel 7,2023-04-10
+88,Pixel 8,2023-08-25
+89,Pixel 8 Pro,2023-11-25
+90,Pixel Stand (2nd gen),2024-02-20
+91,Pixel 7 Pro,2023-08-08
+92,Pixel 6a,2023-12-10
+93,Pixel Fold,2024-03-18
+94,Pixel Tablet,2024-04-15
+95,Pixel Watch,2023-10-22
+96,Pixel Buds Pro,2024-04-08
+97,Pixel 7,2023-05-15
+98,Pixel 8,2023-09-30
+99,Pixel 8 Pro,2024-01-30
+100,Pixel Stand (2nd gen),2024-03-30
+1,Pixel 6a,2023-05-01
+5,Pixel 8 Pro,2024-02-10
+10,Pixel 7,2023-11-22
+15,Pixel Buds Pro,2024-03-05
+20,Pixel Fold,2023-08-17
+25,Pixel Tablet,2024-01-12
+30,Pixel Watch,2023-06-28
+35,Pixel Stand (2nd gen),2024-04-02
+40,Pixel 7 Pro,2023-09-10
+45,Pixel 8,2024-02-25
+50,Pixel 6a,2023-12-05
+55,Pixel Fold,2024-03-20
+60,Pixel Tablet,2023-07-18
+65,Pixel Watch,2024-01-05
+70,Pixel Buds Pro,2023-10-22
+75,Pixel 7,2024-04-10
+80,Pixel 8 Pro,2023-08-08
+85,Pixel Stand (2nd gen),2024-02-18
+90,Pixel 7 Pro,2023-11-15
+95,Pixel 8,2024-03-01
+100,Pixel 6a,2023-06-10
+1,Pixel Fold,2024-01-20
+5,Pixel Tablet,2023-09-02
+10,Pixel Watch,2024-03-10
+15,Pixel Stand (2nd gen),2023-12-28
+20,Pixel 7 Pro,2024-04-20
+25,Pixel 8,2023-07-05
+30,Pixel 6a,2024-01-15
+35,Pixel Fold,2023-10-18
+40,Pixel Tablet,2024-02-12
+45,Pixel Watch,2023-08-25
+50,Pixel Buds Pro,2024-03-18
+55,Pixel 7,2023-11-20
+60,Pixel 8 Pro,2024-04-05
+65,Pixel Stand (2nd gen),2023-06-22
+70,Pixel 7 Pro,2024-01-08
+75,Pixel 8,2023-10-15
+80,Pixel 6a,2024-02-28
+85,Pixel Fold,2023-12-14
+90,Pixel Tablet,2024-03-25
+95,Pixel Watch,2023-07-28
+100,Pixel Buds Pro,2024-04-15
+1,Pixel Tablet,2023-10-10
+2,Pixel Stand (2nd gen),2024-01-25
+3,Pixel 8, 2023-08-15
+4,Pixel 6a, 2024-03-02
+5,Pixel Buds Pro, 2023-11-08
+6,Pixel 7 Pro, 2024-02-18
+7,Pixel Fold, 2023-09-22
+8,Pixel Watch, 2024-04-05
+9,Pixel 7, 2023-12-01
+10,Pixel 8 Pro, 2024-03-12
+11,Pixel 6a, 2023-10-28
+12,Pixel Tablet, 2024-02-08
+13,Pixel Stand (2nd gen), 2023-08-28
+14,Pixel 8, 2024-04-18
+15,Pixel Buds Pro, 2023-12-15
+16,Pixel 7 Pro, 2024-03-22
+17,Pixel Fold, 2023-10-05
+18,Pixel Watch, 2024-01-28
+19,Pixel 7, 2023-09-18
+20,Pixel 8 Pro, 2024-02-22
+21,Pixel 6a, 2023-11-25
+22,Pixel Tablet, 2024-03-08
+23,Pixel Stand (2nd gen), 2023-09-08
+24,Pixel 8, 2024-01-18
+25,Pixel Buds Pro, 2023-12-22
+26,Pixel 7 Pro, 2024-04-08
+27,Pixel Fold, 2023-10-18
+28,Pixel Watch, 2024-02-12
+29,Pixel 7, 2023-09-28
+30,Pixel 8 Pro, 2024-03-18
+31,Pixel 6a, 2023-11-01
+32,Pixel Tablet, 2024-01-22
+33,Pixel Stand (2nd gen), 2023-09-12
+34,Pixel 8, 2024-02-28
+35,Pixel Buds Pro, 2023-12-29
+36,Pixel 7 Pro, 2024-04-15
+37,Pixel Fold, 2023-10-25
+38,Pixel Watch, 2024-03-05
+39,Pixel 7, 2023-10-08
+40,Pixel 8 Pro, 2024-01-28
+41,Pixel 6a, 2023-11-05
+42,Pixel Tablet, 2024-03-12
+43,Pixel Stand (2nd gen), 2023-09-15
+44,Pixel 8, 2024-02-05
+45,Pixel Buds Pro, 2024-01-05
+46,Pixel 7 Pro, 2024-04-22
+47,Pixel Fold, 2023-10-28
+48,Pixel Watch, 2024-03-08
+49,Pixel 7, 2023-10-12
+50,Pixel 8 Pro, 2024-02-12
+51,Pixel 6a, 2023-11-08
+52,Pixel Tablet, 2024-03-15
+53,Pixel Stand (2nd gen), 2023-09-18
+54,Pixel 8, 2024-02-08
+55,Pixel Buds Pro, 2024-01-08
+56,Pixel 7 Pro, 2024-04-28
+57,Pixel Fold, 2023-11-01
+58,Pixel Watch, 2024-03-12
+59,Pixel 7, 2023-10-15
+60,Pixel 8 Pro, 2024-02-15
+61,Pixel 6a, 2023-11-12
+62,Pixel Tablet, 2024-03-18
+63,Pixel Stand (2nd gen), 2023-09-22
+64,Pixel 8, 2024-02-12
+65,Pixel Buds Pro, 2024-01-12
+66,Pixel 7 Pro, 2024-05-01
+67,Pixel Fold, 2023-11-05
+68,Pixel Watch, 2024-03-15
+69,Pixel 7, 2023-10-18
+70,Pixel 8 Pro, 2024-02-18
+71,Pixel 6a, 2023-11-15
+72,Pixel Tablet, 2024-03-22
+73,Pixel Stand (2nd gen), 2023-09-25
+74,Pixel 8, 2024-02-15
+75,Pixel Buds Pro, 2024-01-15
+76,Pixel 7 Pro, 2024-05-08
+77,Pixel Fold, 2023-11-08
+78,Pixel Watch, 2024-03-18
+79,Pixel 7, 2023-10-22
+80,Pixel 8 Pro, 2024-02-22
+81,Pixel 6a, 2023-11-19
+82,Pixel Tablet, 2024-03-25
+83,Pixel Stand (2nd gen), 2023-09-28
+84,Pixel 8, 2024-02-18
+85,Pixel Buds Pro, 2024-01-18
+86,Pixel 7 Pro, 2024-05-12
+87,Pixel Fold, 2023-11-12
+88,Pixel Watch, 2024-03-22
+89,Pixel 7, 2023-10-25
+90,Pixel 8 Pro, 2024-02-25
+91,Pixel 6a, 2023-11-22
+92,Pixel Tablet, 2024-03-28
+93,Pixel Stand (2nd gen), 2023-10-01
+94,Pixel 8, 2024-02-22
+95,Pixel Buds Pro, 2024-01-22
+96,Pixel 7 Pro, 2024-05-15
+97,Pixel Fold, 2023-11-15
+98,Pixel Watch, 2024-03-25
+99,Pixel 7, 2023-10-28
+100,Pixel 8 Pro, 2024-02-28
