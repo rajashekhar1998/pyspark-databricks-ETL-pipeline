@@ -1,0 +1,101 @@
+product_id,product,category,price
+1,Pixel 7 Pro,Smartphone,899
+2,Pixel 6a,Smartphone,449
+3,Pixel Fold,Smartphone,1799
+4,Pixel Tablet,Tablet,499
+5,Pixel Watch,Wearable,349
+6,Pixel Buds Pro,Audio,199
+7,Pixel 7,Smartphone,599
+8,Pixel 8,Smartphone,699
+9,Pixel 8 Pro,Smartphone,999
+10,Pixel Stand (2nd gen),Accessory,79
+11,Pixel Buds A-Series,Audio,99
+12,Pixel 5a 5G,Smartphone,449
+13,Pixel 6 Pro,Smartphone,899
+14,Pixel 6,Smartphone,599
+15,Pixel 4a 5G,Smartphone,499
+16,Pixel 4a,Smartphone,349
+17,Pixel 5,Smartphone,699
+18,Pixel 4 XL,Smartphone,899
+19,Pixel 4,Smartphone,799
+20,Pixel 3a XL,Smartphone,479
+21,Pixel 3a,Smartphone,399
+22,Pixel 3 XL,Smartphone,899
+23,Pixel 3,Smartphone,799
+24,Pixel 2 XL,Smartphone,849
+25,Pixel 2,Smartphone,649
+26,Pixel XL,Smartphone,769
+27,Pixel,Smartphone,649
+28,Pixel Watch Band (Leather),Wearable,49
+29,Pixel Watch Band (Sport),Wearable,29
+30,Pixel Tablet Case,Accessory,39
+31,Pixel Fold Case,Accessory,59
+32,Pixel 8 Case,Accessory,39
+33,Pixel 8 Pro Case,Accessory,49
+34,Pixel 7 Case,Accessory,39
+35,Pixel 7 Pro Case,Accessory,49
+36,Pixel 6a Case,Accessory,29
+37,Pixel 6 Case,Accessory,39
+38,Pixel 6 Pro Case,Accessory,49
+39,Pixel 5a 5G Case,Accessory,25
+40,Pixel 5 Case,Accessory,25
+41,Pixel 4a Case,Accessory,20
+42,Pixel 4a 5G Case,Accessory,25
+43,Pixel 4 Case,Accessory,25
+44,Pixel 4 XL Case,Accessory,25
+45,Pixel 3a Case,Accessory,20
+46,Pixel 3a XL Case,Accessory,20
+47,Pixel 3 Case,Accessory,25
+48,Pixel 3 XL Case,Accessory,25
+49,Pixel 2 Case,Accessory,25
+50,Pixel 2 XL Case,Accessory,25
+51,Pixel Case,Accessory,25
+52,Pixel XL Case,Accessory,25
+53,USB-C Cable,Accessory,19
+54,USB-C Power Adapter,Accessory,29
+55,Wireless Charger,Accessory,39
+56,Screen Protector (Pixel 8),Accessory,15
+57,Screen Protector (Pixel 8 Pro),Accessory,18
+58,Screen Protector (Pixel 7),Accessory,15
+59,Screen Protector (Pixel 7 Pro),Accessory,18
+60,Screen Protector (Pixel 6a),Accessory,12
+61,Screen Protector (Pixel 6),Accessory,15
+62,Screen Protector (Pixel 6 Pro),Accessory,18
+63,Screen Protector (Pixel 5a 5G),Accessory,12
+64,Screen Protector (Pixel 5),Accessory,12
+65,Screen Protector (Pixel 4a),Accessory,10
+66,Screen Protector (Pixel 4a 5G),Accessory,12
+67,Screen Protector (Pixel 4),Accessory,12
+68,Screen Protector (Pixel 4 XL),Accessory,12
+69,Screen Protector (Pixel 3a),Accessory,10
+70,Screen Protector (Pixel 3a XL),Accessory,10
+71,Screen Protector (Pixel 3),Accessory,12
+72,Screen Protector (Pixel 3 XL),Accessory,12
+73,Screen Protector (Pixel 2),Accessory,12
+74,Screen Protector (Pixel 2 XL),Accessory,12
+75,Screen Protector (Pixel),Accessory,12
+76,Screen Protector (Pixel XL),Accessory,12
+77,Pixel Buds Carrying Case,Audio,25
+78,Pixel Watch Charger,Wearable,29
+79,Pixel Tablet Keyboard,Accessory,99
+80,Pixel Fold Stylus,Accessory,49
+81,Pixel 8 Lens Kit,Accessory,79
+82,Pixel 8 Pro Lens Kit,Accessory,99
+83,Pixel 7 Lens Kit,Accessory,79
+84,Pixel 7 Pro Lens Kit,Accessory,99
+85,Pixel 6a Lens Kit,Accessory,69
+86,Pixel 6 Lens Kit,Accessory,79
+87,Pixel 6 Pro Lens Kit,Accessory,99
+88,Pixel 5a 5G Lens Kit,Accessory,69
+89,Pixel 5 Lens Kit,Accessory,69
+90,Pixel 4a Lens Kit,Accessory,59
+91,Pixel 4a 5G Lens Kit,Accessory,69
+92,Pixel 4 Lens Kit,Accessory,69
+93,Pixel 4 XL Lens Kit,Accessory,69
+94,Pixel 3a Lens Kit,Accessory,59
+95,Pixel 3a XL Lens Kit,Accessory,59
+96,Pixel 3 Lens Kit,Accessory,69
+97,Pixel 3 XL Lens Kit,Accessory,69
+98,Pixel 2 Lens Kit,Accessory,69
+99,Pixel 2 XL Lens Kit,Accessory,69
+100,Pixel Lens Kit,Accessory,69
